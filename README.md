@@ -1,83 +1,39 @@
-### Hey !! I'm Jatin Sharma 👋
+### Hi there, I'm Jatin Sharama 👋
 
+- 🔭 I’m currently working on building beautiful web application with JavaScript.
+- 🌱 I learn something new in JavaScript everyday
+- 📫 How to reach me: @theJwala
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Deepansharora27?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Deepansharora27)
+### Online presence
 
-### Thanks for Stopping By !!
-
-I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rachna International University , Faridabad 👨‍🎓 . I am passionate about a Variety of Domains in Computer Science including **Cloud Computing , Full Stack Web Development** I also love to constantly explore new technologies and leveraging them to solve real world problems . Currently , I am exploring the Depth Of Web Development 👨🏻‍💻 Using the MERN Stack and Parallely amping up my Data Structure and Algorithm Skills. 
-
-- 🔭 I’m currently exploring Full Stack Web Development Using the MERN Stack 
-
-- 🌱 I’m currently learning more about **Cloud Computing**
-
-- 💬 Ask me about **Web Development , Cloud Computing , Data Structures and Algorithms**
-
-- 😄 Pronouns: He/His/Him
-- ⛈️ Fun Fact About Me : Apart from my Technical Pursuits ,I like to explore about **Evolutionary Psychology and Neuroscience**
-
-- I am Well Versed with the Concepts of Data Structures and Algorithms and have solved over 100+ problems on various platforms including. Codezen,Leetcode and Hackerrank.
-
-### Connect with me:
-
-
-<a href="https://twitter.com/deepansharora27" >
-  <img
-    align="left"
-    alt="codeSTACKr | Twitter"
-    width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"
-/></a>
-<a href="https://www.linkedin.com/in/deepansharora27/">
-  <img
-    align="left"
-    alt="codeSTACKr | LinkedIn"
-    width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
-/></a>
-<a href="https://www.instagram.com/deepanshu.codes/">
-  <img
-    align="left"
-    alt="codeSTACKr | Instagram"
-    width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
-/></a>
-<br/> <br/>
-
-### Tech Stack 
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Upgrading%20portfolio&label=Portfolio&style=for-the-badge&up_message=Website&url=https%3A%2F%2Fanirudhjwala.me)](https://anirudhjwala.me/)
 <br />
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-jwala)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theJwala)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhjwala@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anirudhjwala)
 
+### Languages and Tools
 
-### 📕 Latest Blog Posts
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<!-- BLOG-POST-LIST:START -->
-- [Everything about JWT(JSON Web Tokens) and why it is more powerful than the traditional Session Management ?](https://dev.to/deepansharora27/everything-about-jwt-json-web-tokens-and-why-it-is-more-powerful-than-the-traditional-session-management-2j1)
-- [Working with State in ReactJS ](https://dev.to/deepansharora27/working-with-state-in-reactjs-5g65)
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-<!-- BLOG-POST-LIST:END -->
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 
-➡️ [more blog posts...](https://dev.to/deepansharora27)
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 
-<br />
-<br />
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+
+### 🎧 Spotify playing
+![Spotify](https://novatorem-git-master.anirudh-jwala.vercel.app/api/spotify)
 
 <details>
-   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Deepanshu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Deepansharora27&show_icons=true&hide_border=true" />
-
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="left" alt="Anirudh Jwala's GitHub Stats" src="https://github-readme-stats-git-master.anirudh-jwala.vercel.app/api?username=anirudh-jwala&show_icons=true&hide_border=true" />
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh-jwala&" alt="anirudh-jwala" />
 </details>
