@@ -3,11 +3,6 @@
 - 🔭 I’m currently working on building beautiful web application with JavaScript.
 - 🌱 I learn something new in JavaScript everyday
 
-### Online presence
-
-<br />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-sharma-873318192/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinsharma13.bca@gmail.com)
 
 ### Languages and Tools
 
