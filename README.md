@@ -5,7 +5,6 @@
 
 ### Online presence
 
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Upgrading%20portfolio&label=Portfolio&style=for-the-badge&up_message=Website&url=https%3A%2F%2Fanirudhjwala.me)](https://anirudhjwala.me/)
 <br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-sharma-873318192/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinsharma13.bca@gmail.com)
