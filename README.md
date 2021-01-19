@@ -1,6 +1,6 @@
 ### Hi there, I'm Jatin Sharama 👋
 
-- 🔭 Tech Enthusiast|Always Curious
+- 🔭 Tech Enthusiast | Always Curious
 
 ### Languages,Tools,Framewok
 
