@@ -1,8 +1,6 @@
 ### Hi there, I'm Jatin Sharama 👋
 
-- 🔭 I’m currently working on building beautiful web application with JavaScript.
-- 🌱 I learn something new in JavaScript everyday
-
+- 🔭 Tech Enthusiast|Always Curious
 
 ### Languages,Tools,Framewok
 
