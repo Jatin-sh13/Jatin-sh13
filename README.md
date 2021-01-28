@@ -1,4 +1,4 @@
-### Hi there, I'm Jatin Sharama 👋
+### Hi there, I'm Jatin Sharma 👋
 
 - 🔭 Tech Enthusiast | Always Curious
 
